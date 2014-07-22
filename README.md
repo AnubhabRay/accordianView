@@ -11,3 +11,4 @@ Features
 * fully functional accordian list view without using a UITableView
 
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/TCwC-8kDTqI/0.jpg)](http://www.youtube.com/watch?v=TCwC-8kDTqI)
